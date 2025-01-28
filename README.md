@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🎨 Currently mastering **Illustrator**, **After Effects**, and **JavaScript**.
+- 🎨 Currently mastering **Photoshop** **Illustrator**, **After Effects**, and **JavaScript**.
 - 💻 Building **responsive websites** and **creative projects**.
 - 🌱 Always learning new techniques to enhance my skills.
 
